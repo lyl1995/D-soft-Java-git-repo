@@ -1,4 +1,3 @@
 11111111
-
-yidu education
-git is  a free software
+yidu education  niubi 
+git is  a free software and laji
